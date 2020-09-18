@@ -56,7 +56,7 @@ PG N<->1 Blockchain
     console.log('validatedTrie', validatedTrie);
 ``` 
 
-trabalhar exemplo com python.
+trabalhar exemplo acima com python.
 
 ```javascript
 
